@@ -17,96 +17,11 @@
 
 ## 👨‍💻 About Me
 
-Final-year B.Tech student specializing in **IoT and Blockchain**, with hands-on **Machine Learning** experience in predictive modeling and deployment. I build end-to-end AI solutions using Python and modern ML frameworks, focusing on data-driven applications for real-world impact.
+Final-year B.Tech student focused on ML/AI, IoT, and Blockchain, building production-grade AI systems and open to entry-level ML/AI roles.
 
-- 🔭 Currently working on advanced **LLM/GenAI** projects with RAG architecture
-- 🌱 Learning **MLOps**, **AWS Cloud Deployment**, **Kubernetes**, and **Vector Databases**
-- 💼 Former **Machine Learning Intern** at Edunet Foundation
-- 🎯 Seeking entry-level **ML/AI roles** to apply technical skills in scalable, secure systems
-- 🤝 Open to collaborations on **AI**, **IoT**, **Blockchain**, and **MLOps** projects
+## 🔗 Projects
 
----
-
-## 🚀 Current Focus
-
-I'm actively expanding my expertise in production-grade AI systems:
-
-### 📚 Learning Path
-
-- ✅ LLM / GenAI Stack (LangChain, Ollama, RAG)
-- ✅ Embeddings + Vector Databases (FAISS, Pinecone)
-- ✅ AWS Cloud Deployment (EC2, S3, IAM)
-- ✅ MLOps & Observability (MLflow, Model Monitoring)
-- ✅ Kubernetes & Container Orchestration
-
-### 🔨 Projects in Development
-
-#### 🟢 Project 1: Observable Local AI Engine
-
-**Focus:** LLMs + RAG + LangChain | MLOps (MLflow) | DL Optimization
-
-- Building a FastAPI-based document Q&A system with quantized LLMs (Llama 3)
-- Implementing RAG using FAISS vector database for efficient retrieval
-- MLflow integration for tracking latency, token usage, and hallucination detection
-- Quantization techniques (GGUF/AWQ) for resource-efficient model deployment
-
-#### 🟢 Project 2: Secure Cloud AI Microservice
-
-**Focus:** AWS Deployment | Docker | Security Best Practices
-
-- Migrating local AI engine to AWS with EC2 + S3 architecture
-- Implementing strict IAM roles for secure data access
-- Dockerized deployment for consistency and scalability
-- Cloud-hosted AI API with production-ready security
-
-#### 🟢 Project 3: Enterprise-Grade Kubernetes Deployment
-
-**Focus:** Kubernetes | Auto-Scaling | High Availability
-
-- Kubernetes cluster management (Minikube/AWS EKS)
-- Auto-scaling configurations for handling traffic spikes
-- Load-balanced AI microservice architecture
-- Production-ready deployment for enterprise-scale applications
-
----
-
-## 💼 Featured Projects
-
-### 🏗️ [DePIN-Guard: Decentralized IIoT Security Framework](https://github.com/MohitSingh-2335/DePIN-Guard)
-
-**Tech Stack:** `Python` `PyTorch` `LSTM` `Docker` `Hyperledger Fabric` `MQTT`
-
-- Led 4-person team to build MVP for Industrial IoT anomaly detection
-- Developed Dockerized LSTM Autoencoder microservice with <60ms latency
-- Integrated Hyperledger Fabric for immutable alert logging
-- Currently optimizing with Graph Neural Networks (GNNs)
-
-### 📈 [BTCUSDT Stock Price Prediction System](https://github.com/MohitSingh-2335/Stock_Prediction_ML)
-
-**Tech Stack:** `Python` `scikit-learn` `Streamlit` `Pandas` `NumPy`
-
-- Engineered regression, classification, and volatility models on 10K+ historical entries
-- Deployed real-time Streamlit forecasting application
-- Validated using RMSE/accuracy metrics for live market trend analysis
-- Advanced feature engineering for improved prediction accuracy
-
-### 🛡️ [URL Tester: AI-Powered Phishing Detection](https://github.com/MohitSingh-2335/Phishing-detection-microservice) | [🚀 Live Demo](https://phishing-detection-microservice.onrender.com/)
-
-**Tech Stack:** `Python` `XGBoost` `Flask` `Streamlit`
-
-- Engineered XGBoost classifier achieving 90%+ accuracy on 700K+ dataset
-- Extracted 12 features including Shannon Entropy, URL length, digit density
-- Built secure Flask API with HMAC-SHA256 authentication and replay protection
-- **Production Deployed** on Render with memory optimization via RandomizedSearchCV
-
-### ☀️ [Solar Power Prediction System](https://github.com/MohitSingh-2335/Solar_power_prediction)
-
-**Tech Stack:** `Python` `Linear Regression` `scikit-learn` `Pandas` `Matplotlib`
-
-- Developed predictive model for solar energy generation using Linear Regression
-- Performed comprehensive EDA and data preprocessing on large-scale datasets
-- Visualized energy generation patterns and seasonal trends
-- Optimized model performance with RMSE/MAE metrics evaluation
+[DePIN-Guard](https://github.com/MohitSingh-2335/DePIN-Guard) · [Stock Prediction](https://github.com/MohitSingh-2335/Stock_Prediction_ML) · [Phishing Detection](https://github.com/MohitSingh-2335/Phishing-detection-microservice) ([Live Demo](https://phishing-detection-microservice.onrender.com/)) · [Solar Power Prediction](https://github.com/MohitSingh-2335/Solar_power_prediction)
 
 ---
 
