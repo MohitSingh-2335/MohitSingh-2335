@@ -3,9 +3,7 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Machine+Learning+Engineer;IoT+%26+Blockchain+Specialist;AI+%26+MLOps+Enthusiast;Building+Production-Grade+AI+Systems)](https://git.io/typing-svg)
-  
-  📍 Lucknow, Uttar Pradesh, India | 🎓 B.Tech CSE (IoT & Blockchain) | CGPA: 7.88/10
-  
+   
   [![Email](https://img.shields.io/badge/Email-2335mohitsingh%40gmail.com-red?style=flat-square&logo=gmail)](mailto:2335mohitsingh@gmail.com)
   [![Phone](https://img.shields.io/badge/Phone-%2B91--9555769122-green?style=flat-square&logo=whatsapp)](tel:+919555769122)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohit-singh-172548253/)
