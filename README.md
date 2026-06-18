@@ -32,7 +32,7 @@ mohit = {
 
 ## 🚀 Projects
 
-### 🛡️ [DePIN-Guard](https://github.com/MohitSingh-2335/DePIN-Guard) — Final Year Project
+### 🛡️ [DePIN-Guard](https://github.com/MohitSingh-2335/DePIN-Guard) — Final Year Project · [🌐 Live Demo](https://depin-guard-frontend.vercel.app/)
 > AI-powered anomaly detection & trust framework for Industrial IoT using Blockchain
 
 **My role — AI Specialist** (team of 4):
