@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohit Singh 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=AI+%26+ML+Engineer+(Fresher);Building+Production-Grade+AI+Systems;Open+to+AI%2FML+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=AI+%26+ML+Engineer;Building+Production-Grade+AI+Systems;Open+to+AI%2FML+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-2335mohitsingh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2335mohitsingh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-singh-172548253/)
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-B.Tech CSE (IoT & Blockchain), **Babu Banarasi Das University, Lucknow** — CGPA **7.88/10** — Graduating 2026.
+B.Tech CSE (IoT & Blockchain) @ **Babu Banarasi Das University, Lucknow** · Graduating 2026
 
 I build end-to-end AI systems — from training Transformer models and LSTM Autoencoders to deploying microservices with Docker and Hyperledger Fabric. I don't just run notebooks; I build things that actually work.
 
@@ -44,7 +44,7 @@ mohit = {
 
 ---
 
-### 📈 [AI Trading Suite](https://github.com/MohitSingh-2335/Stock_Prediction_ML) — Active Project
+### 📈 [AI Trading Suite](https://github.com/MohitSingh-2335/Stock_Prediction_ML) — In Development
 > Multi-asset ML system: PatchTST Transformer (2023) + XGBoost + SVC — BTC, ETH, SOL, AAPL, TSLA, NVDA
 
 - **PatchTST Transformer** (PyTorch, 2023 SOTA) for time-series forecasting with patch-based tokenization
@@ -53,6 +53,15 @@ mohit = {
 - GPU-trained locally (RTX 4050, CUDA 12.1) → Deployed on **Streamlit Cloud**
 
 `PyTorch` `PatchTST` `XGBoost` `SVC` `Streamlit` `Binance API` `Gemini API` `TA-Lib` `Plotly`
+
+---
+
+## 💼 Experience
+
+**ML Intern — Edunet Foundation** *(Jan – Feb 2025 · Remote)*  
+Built a solar power generation prediction model on real-world energy datasets as part of an IBM-sponsored AI/ML virtual internship. Worked through the full pipeline: data cleaning, feature engineering, model training, and evaluation.
+
+`Python` `scikit-learn` `Pandas` `NumPy` `Jupyter Notebook`
 
 ---
 
@@ -84,12 +93,6 @@ mohit = {
 </div>
 
 ---
-
-## 📫 Let's Connect
-
-- 📧 [2335mohitsingh@gmail.com](mailto:2335mohitsingh@gmail.com)
-- 💼 [LinkedIn — Mohit Singh](https://www.linkedin.com/in/mohit-singh-172548253/)
-- 📱 +91-9555769122
 
 <div align="center">
 
