@@ -103,8 +103,11 @@ Developed a solar-power generation prediction project during an IBM-sponsored AI
 ## Technical toolkit
 
 **Languages & data:** Python · SQL · Pandas · NumPy · data preprocessing · feature engineering · statistical analysis
+
 **Machine learning:** PyTorch · scikit-learn · XGBoost · LightGBM · CatBoost · LSTM autoencoders · anomaly detection · time-series validation · backtesting
+
 **Generative AI:** IBM watsonx · LangChain · RAG · structured generation · Pydantic · ChromaDB · FAISS · Ollama
+
 **Backend & infrastructure:** Flask · FastAPI · REST APIs · WebSockets · SQLite · Supabase · OAuth · Docker · MQTT/TLS · Hyperledger Fabric · automated testing
 
 ---
