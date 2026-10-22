@@ -1,4 +1,4 @@
-&lt;div align=&quot;center&quot;&gt;
+<div align="center">
 
 # Mohit Singh
 
@@ -6,14 +6,15 @@
 
 I build practical AI systems that connect machine learning models and local/cloud LLMs to authenticated APIs, deterministic fallbacks, and reproducible evaluation pipelines.
 
-[](mailto:2335mohitsingh@gmail.com)
-[](https://www.linkedin.com/in/mohit-singh-172548253/)
-[Portfolio](https://www.google.com/search?q=https://mohitsingh-2335.github.io/)
-[](https://leetcode.com/u/007NEMESIS/)
+[![Email](https://img.shields.io/badge/Email-2335mohitsingh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2335mohitsingh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohit--singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-singh-172548253/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohitsingh--2335.github.io-58A6FF?style=flat-square&logo=google-chrome&logoColor=white)](https://mohitsingh-2335.github.io/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-007NEMESIS-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/007NEMESIS/)
 
-&lt;/div&gt;
+</div>
 
-## About Me
+---
+
 
 I am a **B.Tech CSE (IoT & Blockchain)** graduate (2022–2026) from **Babu Banarasi Das University, Lucknow**. My engineering work focuses on bridging the gap between standalone notebooks and maintainable software services:
 
@@ -36,10 +37,10 @@ mohit = {
 | :--- | :--- | :--- | :--- |
 | **[TaskPulse](https://github.com/MohitSingh-2335/Dynamic-Daily-Task-Engine)** | Local-First AI & Backend Automation | Python, Flask, SQLite, Supabase, Ollama, Google Calendar API | Voice/text task parser with local LLM + deterministic fallback, OAuth2 calendar sync, latency/token telemetry, and 5 test modules |
 | **[Phishing Detection API](https://github.com/MohitSingh-2335/Phishing-detection-microservice)** | Threat ML & API Security | Python, Flask, XGBoost, scikit-learn, Render | 90%+ accuracy across 700K+ labeled URLs using 12 lexical/entropy features, redirect tracing, and HMAC-SHA256 replay protection |
-| **[DePIN-Guard](https://github.com/MohitSingh-2335/DePIN-Guard)** ([Live Demo](https://www.google.com/search?q=https://depin-guard-frontend.vercel.app/)) | IIoT Anomaly Detection | PyTorch, LSTM Autoencoder, Flask, FastAPI, Docker, MQTT/TLS, Hyperledger Fabric | Unsupervised 30-step LSTM autoencoder microservice (`<60ms` inference latency) with fault-tolerant fallback and blockchain audit logging |
-| **[Mudra](https://www.google.com/search?q=https://github.com/MohitSingh-2335/Mudra)** | Quantitative ML Research | Python, LightGBM, XGBoost, CatBoost, Optuna, SHAP, Streamlit | Multi-timeframe CCXT/Binance pipeline, Parquet storage, walk-forward validation design, Fractional Kelly/VaR risk limits, and SHAP explainability |
-| **[Kaggriculture Agent](https://www.google.com/search?q=https://github.com/MohitSingh-2335/kaggriculture)** | Autonomous Simulation & Planning | Python, Market Modeling, Spatial Scheduling, Replay Diagnostics | Turn-based decision engine with typed state parsing, opponent tracking, Manhattan movement optimization, V1–V11 replay audits, and 55 passing unit tests |
-| **[IBM RAG \& Agentic AI](https://www.google.com/search?q=https://github.com/MohitSingh-2335/ibm-rag-agentic-ai-architect)** | Generative AI & Retrieval | Python, IBM watsonx, LangChain/LCEL, LlamaIndex, ChromaDB, FAISS, BM25, Pydantic | Modular implementations covering hybrid dense/sparse retrieval, MMR, ReAct/LangGraph agents, MCP tool servers, and schema-validated JSON generation |
+| **[DePIN-Guard](https://github.com/MohitSingh-2335/DePIN-Guard)** ([Live Demo](https://depin-guard-frontend.vercel.app/)) | IIoT Anomaly Detection | PyTorch, LSTM Autoencoder, Flask, FastAPI, Docker, MQTT/TLS, Hyperledger Fabric | Unsupervised 30-step LSTM autoencoder microservice (`<60ms` inference latency) with fault-tolerant fallback and blockchain audit logging |
+| **[Mudra](https://github.com/MohitSingh-2335/Mudra)** | Quantitative ML Research | Python, LightGBM, XGBoost, CatBoost, Optuna, SHAP, Streamlit | Multi-timeframe CCXT/Binance pipeline, Parquet storage, walk-forward validation design, Fractional Kelly/VaR risk limits, and SHAP explainability |
+| **[Kaggriculture Agent](https://github.com/MohitSingh-2335/kaggriculture)** | Autonomous Simulation & Planning | Python, Market Modeling, Spatial Scheduling, Replay Diagnostics | Turn-based decision engine with typed state parsing, opponent tracking, Manhattan movement optimization, V1–V11 replay audits, and 55 passing unit tests |
+| **[IBM RAG & Agentic AI](https://github.com/MohitSingh-2335/ibm-rag-agentic-ai-architect)** | Generative AI & Retrieval | Python, IBM watsonx, LangChain/LCEL, LlamaIndex, ChromaDB, FAISS, BM25, Pydantic | Modular implementations covering hybrid dense/sparse retrieval, MMR, ReAct/LangGraph agents, MCP tool servers, and schema-validated JSON generation |
 
 ## Featured Engineering Deep Dives
 
@@ -54,17 +55,17 @@ A hardened Flask REST microservice that classifies suspicious URLs in real time 
 - **Feature Engineering & Model Selection:** Extracted 12 URL features (including Shannon entropy, digit density, subdomain depth, and redirect chains) across **700,000+ labeled URLs**, benchmarking XGBoost against Random Forest and SVM via `RandomizedSearchCV` to reach **90%+ accuracy**.
 - **API Hardening:** Protected inference endpoints with **HMAC-SHA256 request signing**, timestamp validation for replay-attack prevention, and constant-time signature comparisons (`hmac.compare_digest`) against timing attacks.
 
-### 3. [DePIN-Guard — Industrial IoT Anomaly Detection](https://github.com/MohitSingh-2335/DePIN-Guard) · [Live Demo](https://www.google.com/search?q=https://depin-guard-frontend.vercel.app/)
+### 3. [DePIN-Guard — Industrial IoT Anomaly Detection](https://github.com/MohitSingh-2335/DePIN-Guard) · [Live Demo](https://depin-guard-frontend.vercel.app/)
 A four-person capstone framework for monitoring industrial IoT sensor streams and recording tamper-evident security alerts.
 - **AI Inference Layer (Team AI Lead):** Architected and containerized a **PyTorch 30-step LSTM Autoencoder** microservice served via Flask, flagging unsupervised sensor anomalies via reconstruction-error thresholds at **<60ms telemetry latency**.
 - **Resilient Distributed Integration:** Connected the anomaly detector to a Dockerized FastAPI, React, WebSocket, MQTT/TLS, and Hyperledger Fabric stack with graceful fallback handling if the inference container is unreachable.
 
-### 4. [Mudra — Quantitative ML Research Platform](https://www.google.com/search?q=https://github.com/MohitSingh-2335/Mudra)
+### 4. [Mudra — Quantitative ML Research Platform](https://github.com/MohitSingh-2335/Mudra)
 An experimental machine-learning pipeline for crypto market-data ingestion, technical feature engineering, strategy evaluation, and risk analysis.
 - **Data & Modeling Pipeline:** Automated multi-timeframe OHLCV ingestion via CCXT/Binance into partitioned Parquet storage and compared LightGBM, XGBoost, and CatBoost models tuned with Optuna under chronological and walk-forward validation.
 - **Risk Governance & Explainability:** Built event-driven backtesting accounting for fees, slippage, Fractional Kelly sizing, Value-at-Risk (VaR) limits, and drawdown circuit breakers, paired with SHAP signal attribution and a Streamlit research interface.
 
-### 5. [Kaggriculture — Autonomous Market \& Scheduling Agent](https://www.google.com/search?q=https://github.com/MohitSingh-2335/kaggriculture)
+### 5. [Kaggriculture — Autonomous Market & Scheduling Agent](https://github.com/MohitSingh-2335/kaggriculture)
 An autonomous decision-making agent and benchmark suite for multi-step agricultural market simulation.
 - **Algorithmic Planning:** Engineered typed game-state parsing, dynamic price and opponent modeling, value-density resource scheduling, and Manhattan-distance movement optimization.
 - **Diagnostic Verification:** Built 20+ replay-analysis and economic-audit scripts across 11 strategy iterations (V1–V11), backed by **55 passing unit tests** covering state transitions, starvation guards, and scheduler invariants.
@@ -73,7 +74,7 @@ An autonomous decision-making agent and benchmark suite for multi-step agricultu
 
 ### Work Experience
 - **Machine Learning Intern — Edunet Foundation (AICTE & IBM SkillsBuild)** · *Remote · Jan 2025 – Feb 2025*  
-  Built an end-to-end regression pipeline in Python (`scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`) to forecast solar power generation from environmental telemetry, executing EDA, missing-value imputation, feature scaling, and evaluation across MAE, MSE, RMSE, and $R^2$ ([Solar\_power\_prediction](https://www.google.com/search?q=https://github.com/MohitSingh-2335/Solar_power_prediction)).
+  Built an end-to-end regression pipeline in Python (`scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`) to forecast solar power generation from environmental telemetry, executing EDA, missing-value imputation, feature scaling, and evaluation across MAE, MSE, RMSE, and R² ([Solar_power_prediction](https://github.com/MohitSingh-2335/Solar_power_prediction)).
 
 ### Certifications
 - **Oracle Fusion AI Agent Studio Certified Foundations Associate** — Oracle University (Oct 2025)
@@ -91,11 +92,13 @@ An autonomous decision-making agent and benchmark suite for multi-step agricultu
 | **Backend & Security** | Flask, FastAPI, REST APIs, WebSockets, SQLite, Supabase, OAuth2, HMAC-SHA256, Replay Protection, JWT |
 | **DevOps & Systems** | Docker, Docker Compose, GitHub Actions, Streamlit, MQTT/TLS, Hyperledger Fabric, Pytest / Unittest |
 
+---
+
 ## GitHub Activity
 
-&lt;div align=&quot;center&quot;&gt;
+<div align="center">
 
-&lt;img src=&quot;https://github-readme-stats.vercel.app/api?username=MohitSingh-2335&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;count_private=true&quot; height=&quot;160&quot; alt=&quot;Mohit&#39;s GitHub stats&quot;/&gt;
-&lt;img src=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSingh-2335&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;hide=jupyter%20notebook,html,css&quot; height=&quot;160&quot; alt=&quot;Most used languages&quot;/&gt;
+<img src="https://github-readme-stats.vercel.app/api?username=MohitSingh-2335&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" height="160" alt="Mohit's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSingh-2335&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&hide=jupyter%20notebook,html,css" height="160" alt="Most used languages"/>
 
-&lt;/div&gt;
+</div>
