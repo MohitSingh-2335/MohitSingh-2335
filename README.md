@@ -12,10 +12,10 @@ I build machine learning services: models behind REST APIs, with tests and live 
 
 ## Projects
 
-- **[Phishing Detection API](https://github.com/MohitSingh-2335/Phishing-detection-microservice)** · [Demo](https://url-tester.netlify.app/) · Flask microservice, 12 URL features, HMAC-SHA256 signed requests · 89.86% F1 (91.93% accuracy) on 141,504 held-out URLs, trained on 566,013.
-- **[DePIN-Guard](https://github.com/MohitSingh-2335/DePIN-Guard)** · [Demo](https://depin-guard-frontend.vercel.app/) · AI Specialist (team of 4); PyTorch LSTM autoencoder for IoT anomaly detection · 92.16% precision, 46.08% recall (25 false alarms) on a 2,500-step test set.
+- **[Phishing Detection API](https://github.com/MohitSingh-2335/Phishing-detection-microservice)** · Flask microservice, 12 URL features, HMAC-SHA256 signed requests · 89.86% F1 (91.93% accuracy) on 141,504 held-out URLs, trained on 566,013.
+- **[DePIN-Guard](https://github.com/MohitSingh-2335/DePIN-Guard)** · AI Specialist (team of 4); PyTorch LSTM autoencoder for IoT anomaly detection · 92.16% precision, 46.08% recall (25 false alarms) on a 2,500-step test set.
 - **[TaskPulse](https://github.com/MohitSingh-2335/Dynamic-Daily-Task-Engine)** · Local-first task planner, text and voice input, local LLM (Ollama) with offline fallback, ChromaDB memory, Google Calendar sync · 19 automated tests.
-- **[Mudra](https://github.com/MohitSingh-2335/Mudra)** · [Demo](https://mudra-trading.streamlit.app/) · BTC/USDT hourly forecasting and paper-trading pipeline, chronological split, 500 test cases · models did not beat a naive baseline (model RMSE $399.47 vs baseline $398.77, 34,990 hourly bars).
+- **[Mudra](https://github.com/MohitSingh-2335/Mudra)** · BTC/USDT hourly forecasting and paper-trading pipeline, chronological split, 500 test cases · models did not beat a naive baseline (model RMSE $399.47 vs baseline $398.77, 34,990 hourly bars).
 
 ## Currently Building
 
@@ -24,6 +24,6 @@ I build machine learning services: models behind REST APIs, with tests and live 
 ## Background
 
 - B.Tech CSE (IoT & Blockchain), Babu Banarasi Das University, Lucknow, 2022–2026, CGPA 8.04/10
-- ML Intern (virtual), Edunet Foundation (AICTE & IBM SkillsBuild), Jan–Feb 2025, solar power prediction pipeline ([Solar_power_prediction](https://github.com/MohitSingh-2335/Solar_power_prediction))
+- ML Intern (virtual), Edunet Foundation (AICTE & Shell India, Skills4Future), Jan–Feb 2025, solar power prediction pipeline ([Solar_power_prediction](https://github.com/MohitSingh-2335/Solar_power_prediction))
 - IBM RAG and Agentic AI Professional Certificate (Coursera)
 - Kaggle: [mohitsingh955](https://www.kaggle.com/mohitsingh955) — Playground Series s6e8 & s6e10, March ML Mania, Pokémon TCG AI Battle, Kaggriculture
